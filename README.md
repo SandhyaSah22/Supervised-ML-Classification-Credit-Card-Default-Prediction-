@@ -1,4 +1,4 @@
-=========# ML-Classification-Credit-Card-Default-Prediction
+# ML-Classification-Credit-Card-Default-Prediction
 
 # Problem Description​
 
@@ -65,9 +65,9 @@ SVC​
 
 XGBOOST ​
 
-       #   Classifier              # Train Accuracy	    Test Accuracy	    Precision Score	    Recall Score	   F1 Score
+       #   Classifier          # Train Accuracy	    Test Accuracy	    Precision Score	    Recall Score	   F1 Score
    
-0	# Logistic Regression	        # 0.750503	          0.752416   	  0.690013	           0.788382	       0.735925
+	0  Logistic Regression	0.750503	     0.752416        	0.690013	       0.788382	   0.735925
  
 1          #  SVC                          # 0.807615	          0.778095	         0.714786	           0.818384	       0.763085
  
